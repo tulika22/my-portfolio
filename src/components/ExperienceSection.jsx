@@ -35,7 +35,6 @@ const experiences = [
     technologies: ["Python", "OpenCV", "YOLO", "Jupyter Notebook"],
   },
 ];
-
 export const ExperienceSection = () => {
   return (
     <section id="experience" className="py-24 px-4 relative">
@@ -47,24 +46,27 @@ export const ExperienceSection = () => {
           A journey through internships and work experiences that shaped my skills, mindset, and passion for building impactful tech.
         </p>
 
-        <div className="space-y-10 relative before:absolute before:left-4 before:top-0 before:bottom-0 before:w-1 before:bg-muted">
+        <div className="relative flex flex-col items-center space-y-10">
+          <div className="absolute left-1/2 top-0 bottom-0 w-[2px] bg-muted -translate-x-1/2" />
+          
           {experiences.map((exp, idx) => (
             <motion.div
-                initial={{ opacity: 0, y: 20 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.4, delay: idx * 0.1 }}
-                viewport={{ once: true }}
-                >
-            <div key={exp.id} className="relative pl-12">
-              <div className="bg-card p-6 rounded-xl shadow-sm border border-border">
-                <h3 className="text-lg font-semibold mb-1">{exp.title}</h3>
-                <div className="text-sm text-muted-foreground mb-2 text-primary">
-                  <span className="font-bold">{exp.company} </span>• <span className="italic">{exp.duration}</span>
+              key={exp.id}
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.4, delay: idx * 0.1 }}
+              viewport={{ once: true }}
+              className="w-full max-w-2xl"
+            >
+              <div className="bg-card p-6 rounded-xl shadow-sm border border-border relative">
+                <h3 className="text-lg font-semibold mb-1 text-center">{exp.title}</h3>
+                <div className="text-sm text-muted-foreground mb-2 text-center">
+                  <span className="font-bold text-primary">{exp.company} </span>• <span className="italic">{exp.duration}</span>
                 </div>
-                <p className="text-sm text-muted-foreground mb-4">
+                <p className="text-sm text-muted-foreground mb-4 text-center">
                   {exp.description}
                 </p>
-                <div className="flex flex-wrap gap-2">
+                <div className="flex flex-wrap justify-center gap-2">
                   {exp.technologies.map((tech, index) => (
                     <span
                       key={index}
@@ -75,7 +77,6 @@ export const ExperienceSection = () => {
                   ))}
                 </div>
               </div>
-            </div>
             </motion.div>
           ))}
         </div>
