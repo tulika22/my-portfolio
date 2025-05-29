@@ -2,6 +2,7 @@ import { useEffect } from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { Home } from "./pages/Home";
 import { NotFound } from "./pages/NotFound";
+import {Learnings} from "./pages/Learnings";
 import { Toaster } from "@/components/ui/toaster";
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route index element={<Home />} />
+          <Route path="/learnings" element={<Learnings />} /> 
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>
