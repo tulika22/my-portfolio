@@ -3,8 +3,7 @@ import { ThemeToggle } from "../components/ThemeToggle";
 import { StarBackground } from "@/components/StarBackground";
 import { PetalBackground } from "@/components/PetalBackground";
 import {CodingChallenge} from '../components/CodingChallenge';
-import { Navbar } from "../components/Navbar";
-import { Footer } from "../components/Footer";
+
 
 export const  Learnings = () => {
     const [isDarkMode, setIsDarkMode] = useState(false);
