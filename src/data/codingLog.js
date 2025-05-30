@@ -17,13 +17,43 @@ export const rawCodingLog = [
     },
   {
   "dayIndex": 1,
-  "status": "pending",
+  "status": "done",
   "problems": [
     { "title": "Valid Palindrome", "link": "https://leetcode.com/problems/valid-palindrome/" },
     { "title": "Two Sum II - Input Array Is Sorted", "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/" },
     { "title": "3Sum", "link": "https://leetcode.com/problems/3sum/" },
     { "title": "Container With Most Water", "link": "https://leetcode.com/problems/container-with-most-water/" },
     { "title": "Trapping Rain Water", "link": "https://leetcode.com/problems/trapping-rain-water/" }
+  ]
+}, 
+{
+  "dayIndex": 2,
+  "status": "pending",
+  "problems": [
+    {
+      "title": "Best Time to Buy And Sell Stock",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+    },
+    {
+      "title": "Longest Repeating Character Replacement",
+      "link": "https://leetcode.com/problems/longest-repeating-character-replacement/"
+    },
+    {
+      "title": "Permutation In String",
+      "link": "https://leetcode.com/problems/permutation-in-string/"
+    },
+    {
+      "title": "Minimum Window Substring",
+      "link": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+      "title": "Sliding Window Maximum",
+      "link": "https://leetcode.com/problems/sliding-window-maximum/"
+    }
   ]
 }
   
