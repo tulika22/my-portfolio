@@ -28,7 +28,7 @@ export const rawCodingLog = [
 }, 
 {
   "dayIndex": 2,
-  "status": "pending",
+  "status": "done",
   "problems": [
     {
       "title": "Best Time to Buy And Sell Stock",
@@ -53,6 +53,40 @@ export const rawCodingLog = [
     {
       "title": "Sliding Window Maximum",
       "link": "https://leetcode.com/problems/sliding-window-maximum/"
+    }
+  ]
+},
+{
+  "dayIndex": 3,
+  "status": "pending",
+  "problems": [
+    {
+      "title": "Valid Parentheses",
+      "link": "https://leetcode.com/problems/valid-parentheses/"
+    },
+    {
+      "title": "Min Stack",
+      "link": "https://leetcode.com/problems/min-stack/"
+    },
+    {
+      "title": "Evaluate Reverse Polish Notation",
+      "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation/"
+    },
+    {
+      "title": "Generate Parentheses",
+      "link": "https://leetcode.com/problems/generate-parentheses/"
+    },
+    {
+      "title": "Daily Temperatures",
+      "link": "https://leetcode.com/problems/daily-temperatures/"
+    },
+    {
+      "title": "Car Fleet",
+      "link": "https://leetcode.com/problems/car-fleet/"
+    },
+    {
+      "title": "Largest Rectangle In Histogram",
+      "link": "https://leetcode.com/problems/largest-rectangle-in-histogram/"
     }
   ]
 }
