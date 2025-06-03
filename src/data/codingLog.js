@@ -58,7 +58,7 @@ export const rawCodingLog = [
 },
 {
   "dayIndex": 3,
-  "status": "pending",
+  "status": "done",
   "problems": [
     {
       "title": "Valid Parentheses",
@@ -71,7 +71,13 @@ export const rawCodingLog = [
     {
       "title": "Evaluate Reverse Polish Notation",
       "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation/"
-    },
+    }
+  ]
+},
+{
+  "dayIndex": 4,
+  "status": "done",
+  "problems": [
     {
       "title": "Generate Parentheses",
       "link": "https://leetcode.com/problems/generate-parentheses/"
@@ -87,6 +93,24 @@ export const rawCodingLog = [
     {
       "title": "Largest Rectangle In Histogram",
       "link": "https://leetcode.com/problems/largest-rectangle-in-histogram/"
+    }
+  ]
+},
+{
+  "dayIndex": 5,
+  "status": "done",
+  "problems": [
+    {
+      "title": "Binary Search",
+      "link": "https://leetcode.com/problems/binary-search/"
+    },
+    {
+      "title": "Search a 2D Matrix",
+      "link": "https://leetcode.com/problems/search-a-2d-matrix/"
+    },
+    {
+      "title": "Koko Eating Bananas",
+      "link": "https://leetcode.com/problems/koko-eating-bananas/"
     }
   ]
 }
