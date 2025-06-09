@@ -113,6 +113,86 @@ export const rawCodingLog = [
       "link": "https://leetcode.com/problems/koko-eating-bananas/"
     }
   ]
+},
+{
+  "dayIndex": 6,
+  "status": "done",
+  "problems": [
+    {
+      "title": "Find Minimum In Rotated Sorted Array",
+      "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
+    },
+    {
+      "title": "Search In Rotated Sorted Array",
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+    }
+  ]
+},
+{
+  "dayIndex": 7,
+  "status": "done",
+  "problems": [
+    {
+      "title": "Time Based Key Value Store",
+      "link": "https://leetcode.com/problems/time-based-key-value-store/"
+    }
+  ]
+},
+{
+  "dayIndex": 8,
+  "status": "done",
+  "problems": [
+    {
+      "title": "Median of Two Sorted Arrays",
+      "link": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+    }
+  ]
+},
+{
+  "dayIndex": 9,
+  "status": "done",
+  "problems": [
+    {
+      "title": "Reverse Linked List",
+      "link": "https://leetcode.com/problems/reverse-linked-list/"
+    },
+    {
+      "title": "Merge Two Sorted Lists",
+      "link": "https://leetcode.com/problems/merge-two-sorted-lists/"
+    },
+    {
+      "title": "Linked List Cycle",
+      "link": "https://leetcode.com/problems/linked-list-cycle/"
+    }
+  ]
+},
+{
+  "dayIndex": 10,
+  "status": "done",
+  "problems": [
+    {
+      "title": "Reorder List",
+      "link": "https://leetcode.com/problems/reorder-list/"
+    },
+    {
+      "title": "Remove Nth Node From End of List",
+      "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+    }
+  ]
+},
+{
+  "dayIndex": 11,
+  "status": "done",
+  "problems": [
+    {
+      "title": "Copy List With Random Pointer",
+      "link": "https://leetcode.com/problems/copy-list-with-random-pointer/"
+    },
+    {
+      "title": "Add Two Numbers",
+      "link": "https://leetcode.com/problems/add-two-numbers/"
+    }
+  ]
 }
   
   // Add more days you want to track here...
