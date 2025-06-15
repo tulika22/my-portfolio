@@ -193,7 +193,119 @@ export const rawCodingLog = [
       "link": "https://leetcode.com/problems/add-two-numbers/"
     }
   ]
+},
+{
+  "dayIndex": 12,
+  "status": "done",
+  "problems": [
+    {
+      "title": "Find The Duplicate Number",
+      "link": "https://leetcode.com/problems/find-the-duplicate-number/"
+    },
+    {
+      "title": "Merge K Sorted Lists",
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists/"
+    }
+  ]
+},
+{
+  "dayIndex": 13,
+  "status": "done",
+  "problems": [
+    {
+      "title": "LRU Cache",
+      "link": "https://leetcode.com/problems/lru-cache/"
+    },
+    {
+      "title": "Reverse Nodes In K Group",
+      "link": "https://leetcode.com/problems/reverse-nodes-in-k-group/"
+    },
+    {
+      "title": "Remove the balls",
+      "link": "https://www.geeksforgeeks.org/problems/remove-the-balls--170647/1"
+    }, 
+    {
+      "title": "Exactly One Swap",
+      "link": "https://www.geeksforgeeks.org/problems/exactly-one-swap--170637/1"
+    }
+  ]
+},
+{
+  "dayIndex": 14,
+  "status": "done",
+  "problems": [
+    {
+      "title": "Invert Binary Tree",
+      "link": "https://leetcode.com/problems/invert-binary-tree/"
+    },
+    {
+      "title": "Maximum Depth of Binary Tree",
+      "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+    },
+    {
+      "title": "Diameter of Binary Tree",
+      "link": "https://leetcode.com/problems/diameter-of-binary-tree/"
+    }, 
+    {
+      "title": "K Closest Elements",
+      "link":"https://www.geeksforgeeks.org/problems/k-closest-elements3619/1"
+    }
+  ]
+},
+{
+  "dayIndex": 15,
+  "status": "done",
+  "problems": [
+    {
+      "title": "Balanced Binary Tree",
+      "link": "https://leetcode.com/problems/balanced-binary-tree/"
+    },
+    {
+      "title": "Same Tree",
+      "link": "https://leetcode.com/problems/same-tree/"
+    },
+    {
+      "title": "Subtree of Another Tree",
+      "link": "https://leetcode.com/problems/subtree-of-another-tree/"
+    }
+  ]
+},
+{
+  "dayIndex": 16,
+  "status": "done",
+  "problems": [
+    {
+      "title": "Lowest Common Ancestor of a Binary Search Tree",
+      "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"
+    },
+    {
+      "title": "Check Whether BST Contains Dead End",
+      "link": "https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1"
+    },
+    {
+      "title": "Sum String",
+      "link": "https://www.geeksforgeeks.org/problems/sum-string3151/1"
+    }
+  ]
+},
+{
+  "dayIndex": 17,
+  "status": "done",
+  "problems": [
+    {
+      "title": "Smallest Divisor",
+      "link": "https://www.geeksforgeeks.org/problems/smallest-divisor/1"
+    },
+    {
+      "title": "Symmetric Tree",
+      "link": "https://www.geeksforgeeks.org/problems/symmetric-tree/1"
+    }
+  ]
 }
+
+
+
+
   
   // Add more days you want to track here...
 ];
