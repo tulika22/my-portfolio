@@ -12,7 +12,7 @@ const experiences = [
     "Led full-stack development across frontend, backend, and DevOps — building reusable UI systems, optimizing API performance, and integrating third-party services (Stripe, Twilio, Slack, etc.). Increased code coverage to 100% and improved dev efficiency and scalability across the platform.",
 
     technologies: [
-        "Scala", "React", "TypeScript", "Node.js", "Stripe", "Twilio", "Slack API",
+        "Java", "Scala", "React", "TypeScript", "Node.js", "Stripe", "Twilio", "Slack API",
         "Captain Data", "Docker", "GitHub Actions", "PostgreSQL", "Redis", "RabbitMQ"
       ],
   },
