@@ -2,7 +2,7 @@ import React, { useMemo, useState } from 'react';
 import { rawCodingLog, generateFullCodingLog } from '../data/codingLog';
 import { DayCardModal } from './DayCardModal';
 
-const TOTAL_DAYS = 30;
+const TOTAL_DAYS = 31;
 
 function getShadeClass(status, problemsCount) {
   if (status === 'missed') return 'bg-rose-200 text-rose-900';

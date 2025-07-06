@@ -301,11 +301,210 @@ export const rawCodingLog = [
       "link": "https://www.geeksforgeeks.org/problems/symmetric-tree/1"
     }
   ]
+},
+  {
+    dayIndex: 18,
+    status: "done",
+    problems: [
+      {
+        title: "Binary Tree Level Order Traversal",
+        link: "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+      },
+      {
+        title: "Binary Tree Right Side View",
+        link: "https://leetcode.com/problems/binary-tree-right-side-view/"
+      },
+      {
+        title: "Count Good Nodes In Binary Tree",
+        link: "https://leetcode.com/problems/count-good-nodes-in-binary-tree/"
+      }
+    ]
+  },
+  {
+    dayIndex: 19,
+    status: "done",
+    problems: [
+      {
+        title: "Validate Binary Search Tree",
+        link: "https://leetcode.com/problems/validate-binary-search-tree/"
+      },
+      {
+        title: "Kth Smallest Element In a BST",
+        link: "https://leetcode.com/problems/kth-smallest-element-in-a-bst/"
+      },
+      {
+        title: "Construct Binary Tree From Preorder And Inorder Traversal",
+        link: "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+      }
+    ]
+  },
+  {
+    dayIndex: 20,
+    status: "done",
+    problems: [
+      {
+        title: "Binary Tree Maximum Path Sum",
+        link: "https://leetcode.com/problems/binary-tree-maximum-path-sum/"
+      },
+      {
+        title: "Serialize And Deserialize Binary Tree",
+        link: "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/"
+      }
+    ]
+  },
+  {
+    dayIndex: 21,
+    status: "done",
+    problems: [
+      {
+        title: "Climbing Stairs",
+        link: "https://leetcode.com/problems/climbing-stairs/"
+      },
+      {
+        title: "Min Cost Climbing Stairs",
+        link: "https://leetcode.com/problems/min-cost-climbing-stairs/"
+      }
+    ]
+  },
+  {
+    dayIndex: 22,
+    status: "done",
+    problems: [
+      {
+        title: "House Robber",
+        link: "https://leetcode.com/problems/house-robber/"
+      },
+      {
+        title: "House Robber II",
+        link: "https://leetcode.com/problems/house-robber-ii/"
+      },
+      {
+        title: "Longest Palindromic Substring",
+        link: "https://leetcode.com/problems/longest-palindromic-substring/"
+      },
+      {
+        title: "Palindromic Substrings",
+        link: "https://leetcode.com/problems/palindromic-substrings/"
+      }
+    ]
+  },
+  {
+    dayIndex: 23,
+    status: "done",
+    problems: [
+      {
+        title: "Decode Ways",
+        link: "https://leetcode.com/problems/decode-ways/"
+      },
+      {
+        title: "Coin Change",
+        link: "https://leetcode.com/problems/coin-change/"
+      }
+    ]
+  },
+  {
+    dayIndex: 24,
+    status: "done",
+    problems: [
+      {
+        title: "Maximum Product Subarray",
+        link: "https://leetcode.com/problems/maximum-product-subarray/"
+      },
+      {
+        title: "Word Break",
+        link: "https://leetcode.com/problems/word-break/"
+      }
+    ]
+  },
+  {
+    dayIndex: 25,
+    status: "done",
+    problems: [
+      {
+        title: "Longest Increasing Subsequence",
+        link: "https://leetcode.com/problems/longest-increasing-subsequence/"
+      }
+    ]
+  },
+  {
+    dayIndex: 26,
+    status: "done",
+    problems: [
+      {
+        title: "Partition Equal Subset Sum",
+        link: "https://leetcode.com/problems/partition-equal-subset-sum/"
+      }
+    ]
+  },
+  {
+    dayIndex: 27,
+    status: "done",
+    problems: [
+      {
+        title: "Unique Paths",
+        link: "https://leetcode.com/problems/unique-paths/"
+      },
+      {
+        title: "Longest Common Subsequence",
+        link: "https://leetcode.com/problems/longest-common-subsequence/"
+      }
+    ]
+  },
+  {
+    dayIndex: 28,
+    status: "done",
+    problems: [
+      {
+        title: "Best Time to Buy And Sell Stock With Cooldown",
+        link: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/"
+      },
+      {
+        title: "Coin Change II",
+        link: "https://leetcode.com/problems/coin-change-ii/"
+      }
+    ]
+  },
+  {
+    dayIndex: 29,
+    status: "done",
+    problems: [
+      {
+        title: "Target Sum",
+        link: "https://leetcode.com/problems/target-sum/"
+      },
+      {
+        title: "Interleaving String",
+        link: "https://leetcode.com/problems/interleaving-string/"
+      },
+      {
+        title: "Longest Increasing Path In a Matrix",
+        link: "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/"
+      },
+      {
+        title: "Distinct Subsequences",
+        link: "https://leetcode.com/problems/distinct-subsequences/"
+      }
+    ]
+  },
+  {
+    dayIndex: 30,
+    status: "done",
+    problems: [
+      {
+        title: "Edit Distance",
+        link: "https://leetcode.com/problems/edit-distance/"
+      },
+      {
+        title: "Burst Balloons",
+        link: "https://leetcode.com/problems/burst-balloons/"
+      },
+      {
+        title: "Regular Expression Matching",
+        link: "https://leetcode.com/problems/regular-expression-matching/"
+      }
+    ]
+  
 }
-
-
-
-
   
   // Add more days you want to track here...
 ];
